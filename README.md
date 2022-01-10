@@ -1,2 +1,2 @@
 # microservices-config
-Central repository configurations for Eazy Bank Microservices
+Central repository configurations 
